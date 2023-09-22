@@ -1,0 +1,39 @@
+
+.burger{
+	padding: 10px;
+font-size: 30px;
+background: orange;
+	text-align: center;
+}
+
+#line{
+
+line-height: 1.5;
+font-size: 20px;
+
+
+
+}
+
+
+.text{
+
+font-size: 20px;
+
+}
+
+#title{
+text-align: center;
+background: black;
+	font-size: 40px;
+}
+
+        body {*
+            line-height: 0.8;
+            text
+            margin: 30px;
+            padding: 30px;
+        }
+        li{
+
+        }
