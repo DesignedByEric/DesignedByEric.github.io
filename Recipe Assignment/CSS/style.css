@@ -1,5 +1,11 @@
+.center{
 
+
+    text-align: center;
+}
 .burger{
+
+    
 	padding: 10px;
 font-size: 30px;
 background: orange;
@@ -28,12 +34,39 @@ background: black;
 	font-size: 40px;
 }
 
-        body {*
-            line-height: 0.8;
-            text
-            margin: 30px;
-            padding: 30px;
-        }
-        li{
+#menu{
 
-        }
+
+
+width: 100%;
+height: 50px;
+background: red;
+margin-right: 10%;
+display: flex;
+justify-content: space-around;
+
+
+}
+
+.menuItem:hover{
+background: red;
+font-family:helvetica;
+display: inline-block;
+padding: 0px;
+font-size: 30px;
+
+
+
+}
+
+#footer{
+padding: 15px;
+width: 100%;
+height: 13px;
+background: red;
+
+
+
+display: flex;
+justify-content: space-around;
+}
